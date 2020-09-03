@@ -3,7 +3,7 @@
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Airport--System-blue)
 [![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Disk-File-Management-System)](https://github.com/GabrielFSSantos/Disk-File-Management-System/blob/master/LICENSE.md)
 
-> :bookmark:  Disk-File-Management-System é um projeto desenvolvido na linguagem C utilizando lista dos conceitos de algoritmos e estrutura de dados. Este pequeno programa realiza a simulação de um disco, podendo gerenciar arquivos fictícios no mesmo, e visualizar o mesmo graficamente.  <br>
+> :minidisc:  Disk-File-Management-System é um projeto desenvolvido na linguagem C utilizando lista dos conceitos de algoritmos e estrutura de dados. Este pequeno programa realiza a simulação de um disco, podendo gerenciar arquivos fictícios no mesmo, e visualizar o mesmo graficamente.  <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
 
 ## Versioning
