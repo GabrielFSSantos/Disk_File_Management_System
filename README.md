@@ -7,7 +7,7 @@
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
 
 ## Versioning
-> :flags: O projeto não teve um gerenciamento de versionamento, ele se encontra em fase alfa e foi utilizado para fins didaticos.
+> :flags: O projeto não teve um gerenciamento de versionamento, ele se encontra em fase alfa.
 
 ## Contributing
 > :information_desk_person: O projeto é de livre acesso e uso, então fique à-vontade para realizar um Fork e utilizar do mesmo, como também sugerir dicas e melhorias.
